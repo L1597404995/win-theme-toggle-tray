@@ -1,0 +1,4 @@
+build/app.ico
+*.user
+*.suo
+.vs/
